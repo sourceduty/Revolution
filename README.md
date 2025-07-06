@@ -52,3 +52,5 @@ The Integrated Circuit (IC) or Microchip Revolution, which began in 1958 with th
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [Mechanical](https://github.com/sourceduty/Mechanical)
+<br>
+[Trend Map](https://chatgpt.com/g/g-686a3706dcf48191821e6daa7e692006-trend-map)
