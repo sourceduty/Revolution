@@ -1,5 +1,3 @@
-![Futures](https://github.com/user-attachments/assets/2cf87cae-2361-4f7b-b223-54246796fc08)
-
 | Revolution                              | Start Date | End Date      | Total Years |
 |-----------------------------------------|------------|---------------|-------------|
 | Digital Revolution                      | 1970s      | Ongoing       | ~50+ years  |
