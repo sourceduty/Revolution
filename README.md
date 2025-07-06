@@ -51,7 +51,7 @@ The 2020s represent a once-in-a-lifetime intersection of breakthroughs for plane
 
 #
 
-Alex: _There is an overwhelming 27 significant ongoing tech revolutions._
+Alex: _There is an overwhelming amount of significant ongoing tech revolutions._
 
 #
 
