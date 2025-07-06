@@ -39,7 +39,7 @@ In addition to the well-established revolutions, several emerging and ongoing re
 
 #
 
-![Gates](https://github.com/user-attachments/assets/3f40b120-2476-4943-9a77-f7512617df97)
+![Gates](https://github.com/user-attachments/assets/5108213c-0118-4369-8845-80c99a08d1a1)
 
 The Integrated Circuit (IC) or Microchip Revolution, which began in 1958 with the invention of the first integrated circuit by Jack Kilby and Robert Noyce, has been one of the most transformative technological revolutions of the 20th and 21st centuries. Integrated circuits, often referred to as microchips, enabled the miniaturization of electronic components, leading to a drastic reduction in the size, cost, and power consumption of electronic devices. This revolution has fueled the Digital Revolution, laying the foundation for modern computing, telecommunications, and consumer electronics. The widespread adoption of microchips has led to the creation of personal computers, smartphones, and a host of other smart devices, driving advancements in areas such as artificial intelligence, robotics, and biotechnology. Microchips are now at the heart of nearly every technological revolution, from the AI Revolution to the IoT Revolution and beyond, acting as the critical enabler for the massive leap in computing power we see today. Furthermore, the integration of semiconductor technology has not only propelled industries forward but also facilitated the interconnection of global networks, contributing to a world where nearly everything is becoming digital, automated, and smarter. The IC revolution continues to evolve, with new advancements in quantum computing and nanoelectronics promising to shape the next wave of technological breakthroughs.
 
